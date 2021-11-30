@@ -1,5 +1,4 @@
 import React from 'react'
-import { animals } from '../../data'
 import './Animal.css'
 
 export default function Animal(props) {
